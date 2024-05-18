@@ -12,8 +12,9 @@ This repository contains the designs, software, and documentation for an open-so
 
 ## Repo Contents
 
-* Hardware designs (PCB, schematic, and enclosure)
+* Hardware designs (PCB and schematics)
 * Firmware and software source code
+* Mechanical parts (3D models)
 * Documentation
 
 ## Contributing
