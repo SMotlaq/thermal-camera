@@ -1,0 +1,2 @@
+SerialWire=SWDIO,SWCLK
+USB=D_P,D_N
