@@ -17,6 +17,15 @@ This repository contains the designs, software, and documentation for an open-so
 * Mechanical parts (3D models)
 * Documentation
 
+# Donation and Sponsoring
+Do you want to donate to this project?
+
+<p align="left">
+  <a href="http://smotlaq.ir/LQgQF">
+  <img src="https://raw.githubusercontent.com/SMotlaq/LoRa/master/bmc.png" width="200" alt="Buy me a Coffee"/>
+  </a>
+</p>
+
 ## Contributing
 
 This project is open-source and community-driven. Contributions, bug reports, and suggestions are welcome! If you'd like to get involved, feel free to open an issue or send a pull request.
