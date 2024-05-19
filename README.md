@@ -17,7 +17,7 @@ This repository contains the designs, software, and documentation for an open-so
 * Mechanical parts (3D models)
 * Documentation
 
-# Donation and Sponsoring
+## Donation and Sponsoring
 Do you want to donate to this project?
 
 <p align="left">
