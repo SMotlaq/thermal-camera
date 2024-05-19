@@ -5,7 +5,7 @@ This repository contains the designs, software, and documentation for an open-so
 ## Features
 
 * 32x32 thermal sensor array
-* Using phototransistors to sense 940mm heat waves
+* Using phototransistors to sense 940nm heat waves
 * Two 16-Channel 3MSPS ADCs
 * 2.8" TFT touch screen
 * USB 2.0 port
